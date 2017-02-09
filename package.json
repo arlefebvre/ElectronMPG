@@ -1,0 +1,19 @@
+{
+  "name": "electron-mpg",
+  "version": "1.0.0",
+  "description": "MPG app basée sur electron",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/arlefebvre/ElectronMPG",
+  "keywords": [
+    "Electron",
+    "MPG",
+  ],
+  "author": "arlefebvre",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
