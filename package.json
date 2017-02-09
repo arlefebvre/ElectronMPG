@@ -2,7 +2,7 @@
   "name": "electron-mpg",
   "version": "1.0.0",
   "description": "MPG app basée sur electron",
-  "main": "./app/main.js",
+  "main": "./app/scripts/main.js",
   "scripts": {
     "start": "electron ."
   },
